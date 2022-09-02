@@ -4,9 +4,14 @@
 
 <details>
 <summary><strong>Trybe</strong></summary>
-- 🇬🇧 "Trybe is a technology school that has a genuine commitment to the professional success of its students. There are more than 1.500 hours of training that covers fundamentals of web development, Front-end, Back-end, computer science, agile methodologies and soft skills."
-<br>
-- 🇧🇷 "A Trybe é uma escola de tecnologia que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento web, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais."
+<ul>
+<li>
+🇬🇧 "Trybe is a technology school that has a genuine commitment to the professional success of its students. There are more than 1.500 hours of training that covers fundamentals of web development, Front-end, Back-end, computer science, agile methodologies and soft skills."
+</li>
+<li>
+🇧🇷 "A Trybe é uma escola de tecnologia que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento web, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais."
+</li>
+</ul>
 </details>
 
 <details>

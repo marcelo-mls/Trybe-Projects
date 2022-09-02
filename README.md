@@ -4,18 +4,35 @@
 
 <details>
 <summary><strong>Trybe</strong></summary>
-<ul>
-<li>
-🇬🇧 "Trybe is a technology school that has a genuine commitment to the professional success of its students. There are more than 1.500 hours of training that covers fundamentals of web development, Front-end, Back-end, computer science, agile methodologies and soft skills."
-</li>
-<li>
-🇧🇷 "A Trybe é uma escola de tecnologia que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento web, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais."
-</li>
-</ul>
+
+>🇬🇧 "Trybe is a technology school that has a genuine commitment to the professional success of its students. There are more than 1.500 hours of training that covers fundamentals of web development, Front-end, Back-end, computer science, agile methodologies and soft skills."
+
+>🇧🇷 "A Trybe é uma escola de tecnologia que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento web, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais."
 </details>
 
+<h2>:heavy_check_mark: Fundamentals of Web Development
+<img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+<img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+</h2>
+
+- :heavy_check_mark: Project - Lessons Learned
+- :heavy_check_mark: Project - Playground Functions
+- :heavy_check_mark: Project - Pixels Art
+- :heavy_check_mark: Project - To-do List
+- :hourglass_flowing_sand: Project - Color Guess
+- :hourglass_flowing_sand: Project - Meme Generator
+- :hourglass_flowing_sand: Project - Mistery Letter
+- :heavy_check_mark: Project - Trybewarts
+- :heavy_check_mark: Project - JavaScript ES6 Unit Tests
+- :heavy_check_mark: Project - Zoo functions
+
 <details>
-<summary><h2>Fundamentals of Web Development  :heavy_check_mark: </h2></summary>
+<summary><h4>Curriculum / Currículo</h4></summary>
 
 #### Unit 01: Unix & Bash
 - Unix & Bash - Part 1
@@ -31,22 +48,22 @@
 - HTML & CSS - First steps with CSS
 - HTML & CSS - Selectors and positioning
 - Semantic HTML
-- ☑️ **Project - Lessons Learned** :heavy_check_mark:
+- ☑️ **Project - Lessons Learned**
 
  #### Unit 04: Introduction to JavaScript
 - JavaScript - First steps
 - JavaScript - Array and For loop
 - JavaScript - Programming Logic and Algorithms
 - JavaScript - Objects and Functions
-- ☑️ **Project - Playground Functions** :heavy_check_mark:
+- ☑️ **Project - Playground Functions**
 
 #### Unit 05: JavaScript - DOM, Events and Web Storage
 - JavaScript - DOM and selectors
 - JavaScript - Working with elements
 - JavaScript - Events
 - JavaScript - Web Storage
-- ☑️ **Project - Pixels Art** :heavy_check_mark:
-- ☑️ **Project - To-do List** :heavy_check_mark:
+- ☑️ **Project - Pixels Art**
+- ☑️ **Project - To-do List**
  
 #### Unit 06: HTML & CSS: Forms, Flexbox, and Responsiveness
 - HTML & CSS - Forms
@@ -55,13 +72,13 @@
 - Flexbox CSS - Part 1
 - Flexbox CSS - Part 2
 - CSS Responsive - Mobile First
-- ☑️ **Project - Trybewarts** :heavy_check_mark:
+- ☑️ **Project - Trybewarts**
   
 #### Unit 07: Introduction to JavaScript ES6 and Unit Tests
 - JavaScript ES6 - let, const, arrow functions, and template literals
 - JavaScript ES6 - Exception flow and Objetcs
 - First steps with Jest
-- ☑️ **Project - JavaScript ES6 Unit Tests** :heavy_check_mark:
+- ☑️ **Project - JavaScript ES6 Unit Tests**
 
 #### Unit 08: JavaScript ES6 Higher-Order Functions
 - JavaScript ES6 - Introduction to Higher-Order Functions
@@ -69,68 +86,112 @@
 - JavaScript ES6 - Higher-Order Functions - map e filter
 - JavaScript ES6 - Higher-Order Functions - reduce
 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
-- ☑️ **Project - Zoo functions** :heavy_check_mark:
+- ☑️ **Project - Zoo functions**
 </details>
 
+<h2>:heavy_check_mark: Front-end Development
+<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+<img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</h2>
+
+- :heavy_check_mark: **Project - Shopping Cart**
+- :heavy_check_mark: **Project - Sistema Solar**
+- :heavy_check_mark: **Project - Tryunfo**
+- :heavy_check_mark: **Project - TrybeTunes**
+- :heavy_check_mark: **Project - Front-end Online Store**
+- :heavy_check_mark: **Project - Tests with React**
+- :heavy_check_mark: **Project - Trybe Wallet**
+- :heavy_check_mark: **Project - Trivia Game**
+- :heavy_check_mark: **Project - StarWars Datatable with Context API and Hooks**
+- :heavy_check_mark: **Project - Recipes App**
+
 <details>
-<summary><h2>Front-end Development :heavy_check_mark: </h2></summary>
+<summary><h4>Curriculum / Currículo</h4></summary>
 
 #### Unit 09: JavaScript and Asynchronous Tests
 - Introduction to Front-end development - Part 1
 - Asynchronous JavaScript and Callbacks - Part 2
 - Asynchronous JavaScript - Fetch API, and async/await
 - Jest - Asynchronous Tests
-- ☑️ **Project - Shopping Cart** :heavy_check_mark:
+- ☑️ **Project - Shopping Cart**
 
 #### Unit 10: Introduction to React
 - Introdução - React
 - 'Hello, world!' no React!
 - Componentes React
-- ☑️ **Project - Sistema Solar** :heavy_check_mark:
+- ☑️ **Project - Sistema Solar**
   
 #### Unit 11: Components with State, Events, and Forms with React
 - Components with state and events
 - Forms with React
-- ☑️ **Project - Tryunfo** :heavy_check_mark:
- ![project-tryunfo](https://user-images.githubusercontent.com/102492818/188223101-61d3eb64-032e-4b5d-a1be-e0ecec166009.gif)
+- ☑️ **Project - Tryunfo**
   
 #### Unit 12: Components Lifecycle and React Router
 - Components Lifecycle
 - React Router
-- ☑️ **Project - TrybeTunes** :heavy_check_mark:
+- ☑️ **Project - TrybeTunes**
 
 #### Unit 13: Agile Methodologies
 - Agile Methodologies
-- ☑️ **Project - Front-end Online Store** :heavy_check_mark:
+- ☑️ **Project - Front-end Online Store**
  
 #### Unit 14: Automated testing with React Testing Library
 - RTL - First Steps
 - RTL - Mocks and Inputs
 - RTL - Testing React Router
-- ☑️ **Project - Tests with React** :heavy_check_mark: 
+- ☑️ **Project - Tests with React**
 
 #### Unit 15: State management with Redux
 - Introduction to Redux - the global application state
 - Using Redux with React
 - Using Redux with React - Asynchronous Actions
 - Tests with React-Redux
-- ☑️ **Project - Trybe Wallet** :heavy_check_mark:
+- ☑️ **Project - Trybe Wallet**
 
 #### Unit 16: Project - Trivia Game
-- ☑️ **Project - Trivia Game** :heavy_check_mark:
+- ☑️ **Project - Trivia Game**
 
 #### Unit 17: Context API and React Hooks
 - React Context API
 - React Hooks - useState and useContext
 - React Hooks - useEffect and custom Hooks
-- ☑️ **Project - StarWars Datatable with Context API and Hooks** :heavy_check_mark:
+- ☑️ **Project - StarWars Datatable with Context API and Hooks**
 
 #### Unit 18: Project - Recipes App
-- ☑️ **Project - Recipes App** :heavy_check_mark:
+- ☑️ **Project - Recipes App**
  </details>
 
+<h2>:hourglass_flowing_sand: Back-end Development
+<img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+<img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+<img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</h2>
+
+- :hourglass: **Project - Docker To-do List**
+- :hourglass: **Project - All For One**
+- :hourglass: **Project - One For All**
+- :hourglass: **Project - Talker Manager**
+- :hourglass: **Project - Store Manager**
+- :hourglass: **Project - Blogs API**
+- :hourglass: **Project - Stranger Things**
+- :hourglass: **Project - Trybe Smith**
+- :hourglass: **Project - Trybers and Dragons**
+- :hourglass: **Project - TFC - Trybe Soccer Team**
+- :hourglass: **Project - Commerce**
+- :hourglass: **Project - Car Shop**
+- :hourglass: **Project - Delivery App**
+
 <details>
-<summary><h2>Back-end Development :hourglass_flowing_sand: </h2></summary>
+<summary><h4>Curriculum / Currículo</h4></summary>
 
 #### Unit 19: Docker: Using Containers
 - Introduction - Back-end
@@ -184,7 +245,6 @@
 - Deploy Docker & Heroku
 - **Project - Stranger Things**
 
- 
 #### Unit 26: TypeScript
 - Introduction - TypeScript
 - Introduction to TypeScript
@@ -225,8 +285,19 @@
 - Day 2
  </details>
 
+<h2>:hourglass: Computer Science
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</h2>
+
+- :hourglass: **Project - Job Insights**
+- :hourglass: **Project - Inventory Reports**
+- :hourglass: **Project - Tech news**
+- :hourglass: **Project - Algorithms**
+- :hourglass: **Project - TING - Trybe Is Not Google**
+- :hourglass: **Project - Restaurant Orders**
+
 <details>
-<summary><h2>Computer Science :hourglass: </h2></summary>
+<summary><h4>Curriculum / Currículo<h4></summary>
 
 #### Unit 33: Introduction to Python
 - Introduction to - Computer Science

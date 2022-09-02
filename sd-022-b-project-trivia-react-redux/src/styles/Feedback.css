@@ -1,0 +1,27 @@
+.feedback {
+  align-items: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  height: 60vh;
+  justify-content: center;
+}
+
+.buttons {
+  align-items: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  gap: 20px;
+  justify-content: center;
+}
+
+button {
+  border-radius: 5px;
+  font-weight: 900;
+  height: 50px;
+  padding: 5px;
+  width: 150px;
+}

@@ -1,0 +1,19 @@
+.ranking-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin: 30px;
+}
+
+.ranking {
+  align-items: center;
+  background-color: #1b1e22;
+  border-radius: 20px;
+  color: white;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  gap: 30px;
+  padding-left: 40px;
+  width: 500px;
+}

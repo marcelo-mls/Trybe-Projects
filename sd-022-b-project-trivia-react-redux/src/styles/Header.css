@@ -1,0 +1,25 @@
+.header {
+  align-items: center;
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  font-size: calc(5px + 2vmin);
+  gap: 20px;
+  justify-content: start;
+  padding: 20px;
+}
+
+.header-elements {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.header-elements div {
+  display: flex;
+  gap: 10px;
+}
+
+.header-elements div p {
+  margin: 4px;
+}

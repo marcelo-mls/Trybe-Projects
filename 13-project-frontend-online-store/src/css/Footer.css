@@ -1,0 +1,14 @@
+footer {
+  align-items: center;
+  background: linear-gradient(70deg, #6653ddff, #c081c8ff);
+  bottom: 0;
+  color: white;
+  display: flex;
+  font-size: 12px;
+  height: 40px;
+  justify-content: center;
+  margin-top: 30px;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}

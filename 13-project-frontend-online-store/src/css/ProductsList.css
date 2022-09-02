@@ -1,0 +1,146 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+
+  /* background-color: var(--first-color); */
+  background: linear-gradient(70deg, #6653ddff, #c081c8ff);
+  box-shadow: 0 2px 4px 0.5px grey;
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+  margin-bottom: 30px;
+  padding: 15px 25px;
+}
+
+.header > p {
+  color: white;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.cart-image {
+  width: 45px;
+}
+
+.cart {
+  align-items: center;
+  display: flex;
+  flex-direction: column-reverse;
+  font-size: 12px;
+  justify-content: center;
+}
+
+.input-search {
+  display: flex;
+  gap: 10px;
+}
+
+.items-header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.input-search > label > input {
+  border-radius: 32px;
+  height: 30px;
+  padding-left: 15px;
+  width: 50vw;
+}
+
+.input-search > button {
+  align-items: center;
+  background-color: var(--second-color);
+  border-radius: 32px;
+  border-style: none;
+  box-shadow: 0 1px 4px 0.5px black;
+  color: white;
+  display: flex;
+  font-weight: 500;
+  justify-content: center;
+  text-transform: uppercase;
+  width: 150px;
+}
+
+.input-search > button:hover {
+  box-shadow: 0 2px 4px 0.5px rgb(4, 4, 4);
+}
+
+.input-search > button:active {
+  box-shadow: 0 2px 4px 0.5px grey;
+  transform: scale(0.99);
+}
+
+main {
+  display: flex;
+  gap: 10px;
+}
+
+.category-list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: 10px;
+  min-width: 250px;
+  width: 15vw;
+}
+
+.products-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  width: 85vw;
+}
+
+.product-cart {
+  align-items: center;
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 2px 2px 8px 0 grey;
+  display: flex;
+  flex-direction: column;
+  height: 340px;
+  justify-content: center;
+  margin: 3px;
+  max-width: 300px;
+  min-width: 200px;
+  text-align: center;
+}
+
+.product-cart:hover {
+  transform: scale(1.01);
+}
+
+.button {
+  align-items: center;
+  background-color: var(--second-color);
+  border-radius: 32px;
+  border-style: none;
+  box-shadow: 0 2px 4px 0.5px grey;
+  color: white;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  text-transform: uppercase;
+  width: 280px;
+}
+
+.button:hover {
+  box-shadow: 0 2px 4px 0.5px rgb(4, 4, 4);
+}
+
+.button:active {
+  box-shadow: 0 2px 4px 0.5px grey;
+  transform: scale(0.99);
+}
+
+.text {
+  font-size: 23px;
+  opacity: 40%;
+  padding: 0 50px;
+  text-align: center;
+}

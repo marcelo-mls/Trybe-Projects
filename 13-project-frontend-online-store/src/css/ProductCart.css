@@ -1,0 +1,27 @@
+.product {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 280px;
+  justify-content: space-around;
+  text-align: center;
+  width: 300px;
+}
+
+.product-title {
+  font-size: 16px;
+  font-weight: 300;
+  text-align: center;
+  width: 300px;
+}
+
+.image {
+  height: 90px;
+  width: auto;
+}
+
+.price {
+  font-size: 18px;
+  font-weight: 700;
+}
+

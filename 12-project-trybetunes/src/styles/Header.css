@@ -1,0 +1,44 @@
+header {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-decoration: none;
+  width: 100vw;
+  margin-bottom: 50px;
+}
+
+header > h2 {
+  color: #62c;
+}
+
+header > a:hover {
+  color: #8b51e1;
+  transform: scale(1.02) rotateZ(-1deg);
+}
+
+.trybeTunes {
+  font-weight: 700;
+}
+
+.header-main {
+  background-color: #1c1d21;
+  display: flex;
+}
+
+.header-nav {
+  display: flex;
+  justify-content: space-evenly;
+  width: 90vw;
+}
+
+.header-login {
+  text-align: center;
+  width: 10vw;
+}
+
+header > a:visited, header > a:link, header > a:active {
+  color: #62c;
+  text-decoration: none;
+  text-transform: uppercase;
+}

@@ -1,0 +1,12 @@
+.musicCard {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 10px;
+  text-align: right;
+}
+
+.musicCard p {
+  width: 250px;
+}

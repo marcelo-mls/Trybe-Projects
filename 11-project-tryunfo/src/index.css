@@ -1,0 +1,165 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #282c34;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 15px;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  margin: 35px 0;
+  color: #F3A712;
+}
+
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+.formContainer {
+  padding: 10px;
+  background-color: white;
+  border-radius: 8px;
+  width: 250px;
+  margin-bottom: 10px;
+}
+
+.formContainer label {
+  display: flex;
+  flex-direction: column;
+  margin: 5px 5px 8px 5px;
+  background-color: white;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.divConteinar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 5px solid #177E89;
+  background-color: white;
+  box-shadow: 3px 3px 15px 0 black;
+  border-radius: 8px;
+  margin: 10px;
+  max-width: 180px;
+  min-width: 180px;
+  height: 330px;
+  flex: 1 1 auto;
+}
+
+.divConteinar:hover {
+  box-shadow: -3px -3px 25px 2px black;
+  transform: rotate(2deg);
+}
+
+.divConteinar p {
+  margin: 1px;
+}
+.divConteinar img {
+  max-width: 180px;
+  max-height: 140px;
+}
+
+.name-card {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.description {
+  text-align: center;
+  max-width: 140px;
+  height: 40px;
+  font-size: 10px;
+  word-wrap: break-word;
+}
+
+.attr-group {
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  gap: 5px;
+}
+
+.attr-card {
+  display: flex;
+  color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.force {
+  background-color: #F3A712;;
+}
+
+.agili {
+  background-color: #BA1200;
+}
+
+.intel {
+  background-color: #177E89;
+}
+
+.deck {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.saveBtn {
+  background-color: #F3A712;
+  color: white;
+  border: none;
+  box-shadow: 0 1px 3px 0 #282c34;
+  height: 30px;
+  font-weight: 900;
+  font-size: 20px;
+  border-radius: 3px
+}
+
+.saveBtn:hover {
+  cursor: pointer;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.589);
+}
+
+.saveBtn:active {
+  box-shadow: 0 1px 2px 0 #BA1200;
+}
+
+.saveBtn:disabled {
+  opacity: 50%;
+}
+
+.checkboxLabel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* https://coolors.co/282c34-ba1200-f3a712-ffffff-177e89  
+juntar na lateral esquerda o form + menu. deixar no lado direito o deck. preview no meio
+*/

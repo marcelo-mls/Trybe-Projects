@@ -92,6 +92,7 @@
 - Components with state and events
 - Forms with React
 - ☑️ **Project - Tryunfo** :heavy_check_mark:
+ ![project-tryunfo](https://user-images.githubusercontent.com/102492818/188223101-61d3eb64-032e-4b5d-a1be-e0ecec166009.gif)
   
 #### Unit 12: Components Lifecycle and React Router
 - Components Lifecycle

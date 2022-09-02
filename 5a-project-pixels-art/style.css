@@ -1,0 +1,106 @@
+/*
+Paleta de Cores
+https://coolors.co/256eff-46237a-3ddc97-fcfcfc-ff495c
+--blue-crayola: #256effff;
+--spanish-violet: #46237aff;
+--medium-aquamarine: #3ddc97ff;
+--sizzling-red: #ff495cff;
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: VT323, monospace;
+  text-align: center;
+  background: #256eff;
+}
+
+header {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#title {
+  color: white;
+  font-size: 75px;
+  -webkit-text-stroke: 2px black;
+}
+
+section {
+  margin-bottom: 15px;
+}
+
+.label {
+  margin-bottom: 25px;
+}
+
+main {
+  background-color: white;
+  padding: 30px 15px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 0 10px 0 black;
+}
+
+button {
+  width: 105px;
+  font-family: VT323, monospace;
+  font-size: medium;
+}
+
+input {
+  width: 40px;
+}
+
+.color {
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  color: white;
+  opacity: 70%;
+}
+
+div {
+  font-size: 0;
+  margin: -1px;
+}
+
+.pixel {
+  border: 1px solid black;
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  background-color: white;
+}
+
+.pixel:hover {
+  cursor: cell;
+}
+
+.color:hover {
+  cursor: pointer;
+  opacity: 100%;
+}
+
+.selected {
+  opacity: 100%;
+  box-shadow: 0 0 8px 1px black;
+}
+
+footer {
+  margin-top: 25px;
+  font-family: Poppins, sans-serif;
+  font-size: small;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

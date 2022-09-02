@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Pixels Art</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=VT323&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1 id="title">Pixels Art </h1>
+    </header>
+
+    <main>
+        <section id="color-palette">
+            <span class="color black selected"></span>
+            <span class="color blue"></span>
+            <span class="color green"></span>
+            <span class="color red"></span>
+        </section>
+        <section class="buttons">
+            <button id="clear-board">Limpar quadro</button>
+            <button id="palette">Nova paleta</button>
+        </section>
+        <section class="label">
+            <label for="board-size">largura x altura</label>
+            <input id="board-size" type="number" value="5" min="5" max="25">
+            <button id="generate-board">Gerar quadro</button>
+        </section>
+        <section id="pixel-board"></section>
+    </main>
+
+    <footer>
+        <p>Desenvolvido por @<a target="_blank" href="https://www.linkedin.com/in/marcelo-mls/">Marcelo Marques</a> |
+            @<a href="https://www.betrybe.com/" target="_blank">Trybe</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

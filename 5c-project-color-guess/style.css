@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-decoration: none;
+}
+
+body {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+  margin: 25px;
+}
+
+#balls {
+  display: flex;
+  justify-content: center;
+  margin: 25px;
+}
+
+.ball {
+  border-radius: 100%;
+  width: 75px;
+  height: 75px;
+  margin: 5px;
+  background-color: rgb(25, 10, 94);
+}
+
+.ball:hover {
+  border: 3px solid black;
+}
+
+button {
+  padding: 5px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 5px 0 gray;
+}
+
+button:hover {
+  background-color: darkgray;
+  font-weight: bold;
+}
+
+#answer {
+  color: green;
+  font-weight: bolder;
+}

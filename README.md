@@ -26,7 +26,7 @@
 ##### Habilidades desenvolvidas:
 >Um site que contenha uma série de informações. Ele deverá estar com elementos posicionados e estilizados e além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
 ##### Print:
- ![image](./images/1-lesson-learned.png.png)
+ ![image](./images/1-lesson-learned.png)
 </details>
 
 <details>

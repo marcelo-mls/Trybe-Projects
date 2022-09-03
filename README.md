@@ -182,7 +182,7 @@
 </details>
 
 <details>
-<summary>:heavy_check_mark: Project - Sistema Solar</summary>
+<summary>:heavy_check_mark: Project - Solar System</summary>
 
  ##### Habilidades desenvolvidas:
 >Type here

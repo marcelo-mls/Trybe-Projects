@@ -20,16 +20,85 @@
 <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 </h2>
 
-- :heavy_check_mark: Project - Lessons Learned
-- :heavy_check_mark: Project - Playground Functions
-- :heavy_check_mark: Project - Pixels Art
-- :heavy_check_mark: Project - To-do List
-- :hourglass_flowing_sand: Project - Color Guess
-- :hourglass_flowing_sand: Project - Meme Generator
-- :hourglass_flowing_sand: Project - Mistery Letter
-- :heavy_check_mark: Project - Trybewarts
-- :heavy_check_mark: Project - JavaScript ES6 Unit Tests
-- :heavy_check_mark: Project - Zoo functions
+<details>
+<summary>:heavy_check_mark: Project - Lessons Learned</summary>
+ 
+##### Habilidades desenvolvidas:
+>Um site que contenha uma série de informações. Ele deverá estar com elementos posicionados e estilizados e além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
+##### Exemplo:
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - Playground Functions</summary>
+ 
+##### Habilidades desenvolvidas:
+>Escrever códigos em JavaScript que usam variáveis e tipos primitivos; Utilizar conceitos da linguagem como a tipagem dinâmica e operadores lógicos/aritméticos/de atribuição no seu código; Criar códigos que usam estruturas condicionais, como o if/else; Manipular arrays (listas); Utilizar o comando for; Quebrar grandes problemas em pequenos; Utilizar a lógica de programação na resolução de problemas; Manipular objetos; Utilizar o comando for/in; Utilizar funções para organizar e estruturar o seu código.
+##### Exemplo:
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - Pixels Art</summary>
+ 
+##### Habilidades desenvolvidas:
+>Manipular o DOM para implementar uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels. Para isto você irá utilizar javascript, css e html.
+##### Exemplo:
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - To-do List</summary>
+ 
+##### Habilidades desenvolvidas:
+>Será desenvolvido uma lista de tarefas usando HTML, CSS e JavaScript.
+##### Exemplo:
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - Color Guess</summary>
+ 
+##### Habilidades desenvolvidas:
+>Nesta aplicação deverá ser criado um jogo de adivinhação de cores, em que o usuário deve clicar na cor correta dentro de uma paleta aleatória. A pontuação deverá atualizar de acordo com os acertos.
+##### Exemplo:
+</details>
+
+<details>
+<summary>:hourglass_flowing_sand: Project - Meme Generator</summary>
+ 
+##### Habilidades desenvolvidas:
+>Manipular o DOM para criar um site onde é possível fazer o upload de fotos para gerar memes personalizados.
+##### Exemplo:
+</details>
+
+<details>
+<summary>:hourglass_flowing_sand: Project - Mistery Letter</summary>
+ 
+##### Habilidades desenvolvidas:
+>Utilizando JavaScript, HTML5 e CSS3, será desenvolvida uma aplicação que gere cartas misteriosas, em que todos os elementos (cores, imagens, propriedades de fontes, etc) são gerados aleatóriamente.
+##### Exemplo:
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - Trybewarts</summary>
+ 
+##### Habilidades desenvolvidas:
+>Neste projeto, você irá desenvolver uma página de formulário HTML; Utilizar CSS Flexbox para criar layouts flexíveis; Criar regras CSS específicas para serem aplicadas a dispositivos móveis.
+##### Exemplo:
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - JavaScript ES6 Unit Tests</summary>
+ 
+##### Habilidades desenvolvidas:
+>Escrever testes unitários utilizando o módulo Jest do NodeJS para verificar o correto funcionamento das funções; implementar várias funções na resolução dos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estão corretas, de acordo com o que está sendo solicitado em cada enunciado.
+##### Exemplo:
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - Zoo functions</summary>
+ 
+##### Habilidades desenvolvidas:
+>Aprimorar as habilidades com ES6, aplicando e combinado HOFs (Higher Order Functions) e desenvolvendo testes unitários.
+##### Exemplo:
+</details>
 
 <details>
 <summary><h4>Curriculum / Currículo</h4></summary>

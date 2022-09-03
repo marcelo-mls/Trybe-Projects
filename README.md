@@ -25,7 +25,8 @@
  
 ##### Habilidades desenvolvidas:
 >Um site que contenha uma série de informações. Ele deverá estar com elementos posicionados e estilizados e além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
-##### Exemplo:
+##### Print:
+ ![image](./images/1-lesson-learned.png.png)
 </details>
 
 <details>
@@ -33,7 +34,6 @@
  
 ##### Habilidades desenvolvidas:
 >Escrever códigos em JavaScript que usam variáveis e tipos primitivos; Utilizar conceitos da linguagem como a tipagem dinâmica e operadores lógicos/aritméticos/de atribuição no seu código; Criar códigos que usam estruturas condicionais, como o if/else; Manipular arrays (listas); Utilizar o comando for; Quebrar grandes problemas em pequenos; Utilizar a lógica de programação na resolução de problemas; Manipular objetos; Utilizar o comando for/in; Utilizar funções para organizar e estruturar o seu código.
-##### Exemplo:
 </details>
 
 <details>
@@ -41,7 +41,8 @@
  
 ##### Habilidades desenvolvidas:
 >Manipular o DOM para implementar uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels. Para isto você irá utilizar javascript, css e html.
-##### Exemplo:
+##### Print:
+ ![image](./images/5a-pixels-art.gif)
 </details>
 
 <details>
@@ -49,7 +50,8 @@
  
 ##### Habilidades desenvolvidas:
 >Será desenvolvido uma lista de tarefas usando HTML, CSS e JavaScript.
-##### Exemplo:
+##### Print:
+ ![image](./images/5b-to-do-listgif.png)
 </details>
 
 <details>
@@ -57,7 +59,8 @@
  
 ##### Habilidades desenvolvidas:
 >Nesta aplicação deverá ser criado um jogo de adivinhação de cores, em que o usuário deve clicar na cor correta dentro de uma paleta aleatória. A pontuação deverá atualizar de acordo com os acertos.
-##### Exemplo:
+##### Print:
+ ![image](./images/5c-color-guess.gif)
 </details>
 
 <details>
@@ -66,6 +69,7 @@
 ##### Habilidades desenvolvidas:
 >Manipular o DOM para criar um site onde é possível fazer o upload de fotos para gerar memes personalizados.
 ##### Exemplo:
+ ![image](./images/5d-meme-generator.gif)
 </details>
 
 <details>
@@ -74,6 +78,7 @@
 ##### Habilidades desenvolvidas:
 >Utilizando JavaScript, HTML5 e CSS3, será desenvolvida uma aplicação que gere cartas misteriosas, em que todos os elementos (cores, imagens, propriedades de fontes, etc) são gerados aleatóriamente.
 ##### Exemplo:
+ ![image](./images/5e-mistery-letter.gif)
 </details>
 
 <details>
@@ -82,6 +87,7 @@
 ##### Habilidades desenvolvidas:
 >Neste projeto, você irá desenvolver uma página de formulário HTML; Utilizar CSS Flexbox para criar layouts flexíveis; Criar regras CSS específicas para serem aplicadas a dispositivos móveis.
 ##### Exemplo:
+ ![image](./images/6-trybewarts.png)
 </details>
 
 <details>
@@ -89,7 +95,6 @@
  
 ##### Habilidades desenvolvidas:
 >Escrever testes unitários utilizando o módulo Jest do NodeJS para verificar o correto funcionamento das funções; implementar várias funções na resolução dos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estão corretas, de acordo com o que está sendo solicitado em cada enunciado.
-##### Exemplo:
 </details>
 
 <details>
@@ -97,7 +102,6 @@
  
 ##### Habilidades desenvolvidas:
 >Aprimorar as habilidades com ES6, aplicando e combinado HOFs (Higher Order Functions) e desenvolvendo testes unitários.
-##### Exemplo:
 </details>
 
 <details>
@@ -168,16 +172,87 @@
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </h2>
 
-- :heavy_check_mark: **Project - Shopping Cart**
-- :heavy_check_mark: **Project - Sistema Solar**
-- :heavy_check_mark: **Project - Tryunfo**
-- :heavy_check_mark: **Project - TrybeTunes**
-- :heavy_check_mark: **Project - Front-end Online Store**
-- :heavy_check_mark: **Project - Tests with React**
-- :heavy_check_mark: **Project - Trybe Wallet**
-- :heavy_check_mark: **Project - Trivia Game**
-- :heavy_check_mark: **Project - StarWars Datatable with Context API and Hooks**
-- :heavy_check_mark: **Project - Recipes App**
+<details>
+<summary>:heavy_check_mark: Project - Shopping Cart</summary>
+
+ ##### Habilidades desenvolvidas:
+>Você vai desenvolver carrinho de compras totalmente dinâmico! Para isso, vai consumir dados diretamente de uma API!
+##### Exemplo:
+![image](./images/9-shopping-cart.gif)
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - Sistema Solar</summary>
+
+ ##### Habilidades desenvolvidas:
+>Type here
+##### Exemplo:
+![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+</details>
+<details>
+<summary>:heavy_check_mark: Project - Tryunfo</summary>
+
+ ##### Habilidades desenvolvidas:
+>Type here
+##### Exemplo:
+![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+</details>
+<details>
+<summary>:heavy_check_mark: Project - TrybeTunes</summary>
+
+ ##### Habilidades desenvolvidas:
+>Type here
+##### Exemplo:
+![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+</details>
+<details>
+<summary>:heavy_check_mark: Project - Front-end Online Store</summary>
+
+ ##### Habilidades desenvolvidas:
+>Type here
+##### Exemplo:
+![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+</details>
+<details>
+<summary>:heavy_check_mark: Project - Tests with React</summary>
+
+ ##### Habilidades desenvolvidas:
+>Type here
+##### Exemplo:
+![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+</details>
+<details>
+<summary>:heavy_check_mark: Project - Trybe Wallet</summary>
+
+ ##### Habilidades desenvolvidas:
+>Type here
+##### Exemplo:
+![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+</details>
+<details>
+<summary>:heavy_check_mark: Project - Trivia Game</summary>
+
+ ##### Habilidades desenvolvidas:
+>Type here
+##### Exemplo:
+![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+</details>
+<details>
+<summary>:heavy_check_mark: Project - StarWars Datatable with Context API and Hooks</summary>
+
+ ##### Habilidades desenvolvidas:
+>Type here
+##### Exemplo:
+![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+</details>
+<details>
+<summary>:heavy_check_mark: Project - Recipes App</summary>
+
+ ##### Habilidades desenvolvidas:
+>Type here
+##### Exemplo:
+![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+</details>
 
 <details>
 <summary><h4>Curriculum / Currículo</h4></summary>

@@ -177,7 +177,7 @@
 
  ##### Habilidades desenvolvidas:
 >Você vai desenvolver carrinho de compras totalmente dinâmico! Para isso, vai consumir dados diretamente de uma API!
-##### Exemplo:
+##### Print:
 ![image](./images/9-shopping-cart.gif)
 </details>
 
@@ -185,63 +185,65 @@
 <summary>:heavy_check_mark: Project - Solar System</summary>
 
  ##### Habilidades desenvolvidas:
->Type here
+>Neste projeto, verificamos se você é capaz de utilizar JSX no React; Utilizar corretamente o método render() para renderizar seus componentes; Utilizar import para trazer componentes em diferentes arquivos; Criar componentes de classe em React; Criar múltiplos componentes a partir de um array; Fazer uso de props corretamente; Fazer uso de PropTypes para validar as props de um componente.
 ##### Exemplo:
-![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+![image](./images/10-solar-system.png)
 </details>
 <details>
 <summary>:heavy_check_mark: Project - Tryunfo</summary>
 
  ##### Habilidades desenvolvidas:
->Type here
-##### Exemplo:
-![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+>Neste projeto você vai desenvolver um jogo no estilo Super Trunfo! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de criar um baralho com o tema livre; Adicionar e remover uma carta do baralho; Visualizar todas as cartas que foram adicionadas ao baralho.
+>Neste projeto, foi possível ler o estado de um componente e usá-lo para alterar o que exibimos no browser; Inicializar um componente, dando a ele um estado pré-definido; Atualizar o estado de um componente; Capturar eventos utilizando a sintaxe do React; Criar formulários utilizando sintaxe JSX; Transmitir informações de componentes filhos para componentes pais via callbacks.
+##### Print:
+![image](./images/11-tryunfo.gif)
 </details>
 <details>
 <summary>:heavy_check_mark: Project - TrybeTunes</summary>
 
  ##### Habilidades desenvolvidas:
->Type here
+>Neste projeto você irá criar uma aplicação capaz de reproduzir músicas das mais variadas bandas e artistas, criar uma lista de músicas favoritas e editar o perfil da pessoa usuária logada.
+>Neste projeto, foi possível fazer requisições e consumir dados vindos de uma ```API```; Utilizar os ciclos de vida de um componente React; Utilizar a função setState de forma a garantir que um determinado código só é executado após o estado ser atualizado; Utilizar o componente BrowserRouter corretamente; Criar rotas, mapeando o caminho da URL com o componente correspondente, via Route; Utilizar o Switch do React Router; Criar links de navegação na aplicação com o componente Link.
 ##### Exemplo:
-![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+![image](./images/12-trybetunes.gif)
 </details>
 <details>
 <summary>:heavy_check_mark: Project - Front-end Online Store</summary>
 
  ##### Habilidades desenvolvidas:
->Type here
-##### Exemplo:
+>Neste projeto você criará uma versão simplificada, sem persistência no banco de dados, de uma loja online. Teremos uma aplicação em que pessoas usuárias poderão buscar produtos por termos e categorias a partir da ```API do Mercado Livre```; interagir com os produtos buscados de modo a adicioná-los e removê-los de um carrinho de compras em diferentes quantidades; Visualizar detalhes e avaliações prévias de um produto.
+##### Print:
 ![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
 </details>
 <details>
 <summary>:heavy_check_mark: Project - Tests with React</summary>
 
  ##### Habilidades desenvolvidas:
->Type here
-##### Exemplo:
-![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+>Nesse projeto você escreverá testes para uma aplicação React que já está criada e configurada, utilizando ```Jest e a biblioteca React Testing Library```.
 </details>
 <details>
 <summary>:heavy_check_mark: Project - Trybe Wallet</summary>
 
  ##### Habilidades desenvolvidas:
->Type here
+>Neste projeto você vai desenvolver uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação um usuário poderá adicionar, remover e editar um gasto; Visualizar uma tabelas com seus gastos; Visualizar o total de gastos convertidos para uma moeda de escolha.
+>Neste projeto, foi possível trabalhar com os elementos da biblioteca ```Redux em aplicações React```. Foi feito o uso da store; reducers; actions; dispatchers; actions assíncronas.
 ##### Exemplo:
-![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+![image](./images/15-trybewallet.gif)
 </details>
 <details>
 <summary>:heavy_check_mark: Project - Trivia Game</summary>
 
  ##### Habilidades desenvolvidas:
->Type here
-##### Exemplo:
+>Foi desenvolvido um jogo de perguntas e respostas baseado no jogo Trivia utilizando React e Redux.
+##### Print:
 ![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
 </details>
 <details>
 <summary>:heavy_check_mark: Project - StarWars Datatable with Context API and Hooks</summary>
 
  ##### Habilidades desenvolvidas:
->Type here
+>Foi desenvolvido uma aplicação com uma lista com filtros de planetas do universo de Star Wars usando ```Context API e Hooks``` para controlar os estados globais.
+>Nesse projeto foi possível utilizar a Context API do React para gerenciar estado; Utilizar Hooks, como: useState; useContext; useEffect; Criar React Hooks customizados; Escrever testes para garantir que a aplicação possua uma boa cobertura de testes.
 ##### Exemplo:
 ![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
 </details>
@@ -249,9 +251,9 @@
 <summary>:heavy_check_mark: Project - Recipes App</summary>
 
  ##### Habilidades desenvolvidas:
->Type here
-##### Exemplo:
-![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+>Foi desenvolvido um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API! Nele é possível: ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks! Para a base de dados serão ```2 APIs``` distintas.
+##### Print:
+![image](./images/18-recipes-app.gif)
 </details>
 
 <details>

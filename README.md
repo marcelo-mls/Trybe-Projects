@@ -214,7 +214,7 @@
  ##### Habilidades desenvolvidas:
 >Neste projeto você criará uma versão simplificada, sem persistência no banco de dados, de uma loja online. Teremos uma aplicação em que pessoas usuárias poderão buscar produtos por termos e categorias a partir da ```API do Mercado Livre```; interagir com os produtos buscados de modo a adicioná-los e removê-los de um carrinho de compras em diferentes quantidades; Visualizar detalhes e avaliações prévias de um produto.
 ##### Print:
-![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+![image](./images/13-project-frontend-online-store.gif)
 </details>
 <details>
 <summary>:heavy_check_mark: Project - Tests with React</summary>
@@ -237,7 +237,7 @@
  ##### Habilidades desenvolvidas:
 >Foi desenvolvido um jogo de perguntas e respostas baseado no jogo Trivia utilizando React e Redux.
 ##### Print:
-![image](https://cdn-icons-png.flaticon.com/128/2914/2914192.png)
+![image](./images/16-project-trivia-react-redux.gif)
 </details>
 <details>
 <summary>:heavy_check_mark: Project - StarWars Datatable with Context API and Hooks</summary>
@@ -322,8 +322,14 @@
 <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
 <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </h2>
-
-- :hourglass: **Project - Docker To-do List**
+	
+<details>
+<summary>:heavy_check_mark: Project - Docker To-do List</summary>
+ 
+##### Habilidades desenvolvidas:
+>Neste projeto foi utilizado o Docker para: Conteinerizar aplicações; Criar uma conexão entre elas; Orquestrar seu funcionamento.
+</details>	
+	
 - :hourglass: **Project - All For One**
 - :hourglass: **Project - One For All**
 - :hourglass: **Project - Talker Manager**

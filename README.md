@@ -328,10 +328,24 @@
  
 ##### Habilidades desenvolvidas:
 >Neste projeto foi utilizado o Docker para: Conteinerizar aplicações; Criar uma conexão entre elas; Orquestrar seu funcionamento.
-</details>	
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - All For One</summary>
+ 
+##### Habilidades desenvolvidas:
+>Neste projeto foi utilizado o banco de dados ```Northwind``` para realizar queries ```SQL``` de diferentes níveis de complexidade.
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - One For All</summary>
+ 
+##### Habilidades desenvolvidas:
+>Este projeto foi uma extensão do projeto anterior. Desta vez foi necessário normalizar, modelar e popular uma tabela, para então realizar queries ```SQL``` com complexidade ainda maior.
+Print:
+![image](./images/21-one-for-all-modelado.png)
+</details>
 	
-- :hourglass: **Project - All For One**
-- :hourglass: **Project - One For All**
 - :hourglass: **Project - Talker Manager**
 - :hourglass: **Project - Store Manager**
 - :hourglass: **Project - Blogs API**

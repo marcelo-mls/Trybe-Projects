@@ -342,7 +342,9 @@
  
 ##### Habilidades desenvolvidas:
 >Este projeto foi uma extensão do projeto anterior. Desta vez foi necessário normalizar, modelar e popular uma tabela, para então realizar queries ```SQL``` com complexidade ainda maior.
+
 Print:
+
 ![image](./images/21-one-for-all-modelado.png)
 </details>
 	

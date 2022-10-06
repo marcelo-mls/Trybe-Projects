@@ -347,8 +347,15 @@ Print:
 
 ![image](./images/21-one-for-all-modelado.png)
 </details>
-	
-- :hourglass: **Project - Talker Manager**
+
+<details>
+<summary>:heavy_check_mark: Project - Talker Manager</summary>
+ 
+##### Habilidades desenvolvidas:
+> Utilizando `Node.JS` com o framework `Express`, foi desenvolvido uma `API` de um CRUD (Create, Read, Update e Delete) de palestrantes, atráves da criação de `endpoints` que fazem leitura e escrita em um arquivo utilizando o módulo `fs`. 
+
+</details>
+
 - :hourglass: **Project - Store Manager**
 - :hourglass: **Project - Blogs API**
 - :hourglass: **Project - Stranger Things**

@@ -356,7 +356,14 @@ Print:
 
 </details>
 
-- :hourglass: **Project - Store Manager**
+<details>
+<summary>:heavy_check_mark: Project - Store Manager</summary>
+ 
+##### Habilidades desenvolvidas:
+> Foi desenvolvida uma `API` utilizando a arquitetura MSC `model-service-controller`! A `API` construída é um sistema de gerenciamento de vendas no formato dropshipping em que é possível criar, visualizar, deletar e atualizar produtos e vendas. Foi utilizado o banco de dados `MySQL` para a gestão de dados. Além disso, a `API` segue o modelo `RESTful` 
+
+</details>
+
 - :hourglass: **Project - Blogs API**
 - :hourglass: **Project - Stranger Things**
 - :hourglass: **Project - Trybe Smith**

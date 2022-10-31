@@ -364,7 +364,14 @@ Print:
 
 </details>
 
-- :hourglass: **Project - Blogs API**
+<details>
+<summary>:heavy_check_mark: Project - Blogs API</summary>
+ 
+##### Habilidades desenvolvidas:
+> Neste projeto foi desenvolvida uma `API` seguindo os princípios do `REST` e um banco de dados para a produção de conteúdo para um blog! A aplicação em `Node.js` utilizou o pacote `sequelize`;
+
+</details>
+
 - :hourglass: **Project - Stranger Things**
 - :hourglass: **Project - Trybe Smith**
 - :hourglass: **Project - Trybers and Dragons**

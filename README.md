@@ -319,8 +319,8 @@
 <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-<img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="center" alt="Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+<img align="center" alt="Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </h2>
 	
 <details>
@@ -372,7 +372,6 @@ Print:
 
 </details>
 
-- :hourglass: **Project - Stranger Things**
 - :hourglass: **Project - Trybe Smith**
 - :hourglass: **Project - Trybers and Dragons**
 - :hourglass: **Project - TFC - Trybe Soccer Team**
@@ -431,9 +430,7 @@ Print:
 
 #### Unit 25: Deployment
 - Introduction - Deploy
-- Infrastructure - Deploy with Heroku
-- Deploy Docker & Heroku
-- **Project - Stranger Things**
+- Introduction - DevOps
 
 #### Unit 26: TypeScript
 - Introduction - TypeScript

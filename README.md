@@ -372,7 +372,14 @@ Print:
 
 </details>
 
-- :hourglass: **Project - Trybe Smith**
+<details>
+<summary>:heavy_check_mark: Project - Trybe Smith</summary>
+ 
+##### Habilidades desenvolvidas:
+> Neste projeto, foi desenvolvido uma `API`, utilizando `Typescript`. Seguindo a `arquitetura MSC` (Models, Service e Controllers). Nesta aplicação, é possível realizar operações básicas de um `CRUD` (Create, Read, Update e Delete), através de alguns endpoints que irão ler e escrever em um banco de dados `MySQL`.;
+
+</details>
+
 - :hourglass: **Project - Trybers and Dragons**
 - :hourglass: **Project - TFC - Trybe Soccer Team**
 - :hourglass: **Project - Commerce**

@@ -1,0 +1,23 @@
+import Race from './Race';
+
+class Halfling extends Race {
+  private _maxLifePoints: number;
+  private static _instances = 0;
+
+  constructor(name: string, desterity: number) {
+    super(name, desterity);
+
+    this._maxLifePoints = 60;
+    Halfling._instances += 1;
+  }
+
+  static createdRacesInstances(): number {
+    return Halfling._instances;
+  }
+
+  get maxLifePoints(): number {
+    return this._maxLifePoints;
+  }
+}
+
+export default Halfling;

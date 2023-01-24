@@ -380,11 +380,46 @@ Print:
 
 </details>
 
-- :hourglass: **Project - Trybers and Dragons**
-- :hourglass: **Project - TFC - Trybe Soccer Team**
-- :hourglass: **Project - Commerce**
-- :hourglass: **Project - Car Shop**
-- :hourglass: **Project - Delivery App**
+<details>
+<summary>:heavy_check_mark: Project - Trybers and Dragons</summary>
+ 
+##### Habilidades desenvolvidas:
+> Neste projeto, foi desenvolvido....
+
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - TFC - Trybe Soccer Team</summary>
+ 
+##### Habilidades desenvolvidas:
+> Neste projeto, foi desenvolvido....
+
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - Commerces</summary>
+ 
+##### Habilidades desenvolvidas:
+> Neste projeto, foi desenvolvido....
+
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - Car Shop</summary>
+ 
+##### Habilidades desenvolvidas:
+> Neste projeto, foi desenvolvido....
+
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - Delivery App</summary>
+ 
+##### Habilidades desenvolvidas:
+> Neste projeto, foi desenvolvido....
+
+</details>
+
 
 <details>
 <summary><h4>Curriculum / Currículo</h4></summary>

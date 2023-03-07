@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200;300;400;500;600;700;800;900&display=swap') ;
+
+.login-page * {
+  color: #3f3d56;
+  margin: 0;
+  padding: 0;
+}
+
+.login-page {
+  display: flex;
+  justify-content: center;
+  overflow-y: hidden;
+  padding-top: 25px;
+  width: 100vw;
+}
+
+.login-logo {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+  width: 300px;
+}
+
+.login-logo > img {
+  width: 128px;
+}
+
+.login-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title-drink {
+  color: #f50057;
+  font-family: Unbounded , cursive;
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.title-app {
+  color: #3f3d56;
+  font-weight: 500;
+}
+
+.login-form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  min-width: 300px;
+  width: 20vw;
+}
+
+.login-form-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 300px;
+  padding-top: 24px;
+  width: 20vw;
+}
+
+.login-form-p, .login-form-input, .login-form-btn {
+  border-radius: 4px;
+  height: 32px;
+  width: 100%;
+}
+
+.login-form-input {
+  padding-left: 16px;
+  width: 95%;
+}
+
+.login-form-p {
+  margin-bottom: -16px;
+  width: 100%;
+}
+
+.login-form-btn {
+  border: none;
+  color: white;
+  font-size: 18px;
+  font-weight: 900;
+  height: 40px;
+}
+
+.login-form-btn:hover {
+
+  /* offset-x | offset-y | blur-radius | spread-radius | color */
+  box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.2);
+  transform: scale(1.02);
+}
+
+.login-form-btn:active {
+
+  /* offset-x | offset-y | blur-radius | spread-radius | color */
+  box-shadow: 0.5px 0.5px 1px 1px rgba(0, 0, 0, 0.4);
+  transform: scale(0.98);
+}
+
+.login-form-btn:nth-child( 1 ) {
+  background-color: #f50057;
+  color: white;
+}
+
+.login-form-btn:nth-child( 2 ) {
+  background-color: #3f3d56;
+  box-shadow: 0.2px 0.2px 1px 0.4px rgba(0, 0, 0, 0.2);
+  color: white;
+}
+
+.login-form-btn-login:disabled {
+  background-color: #e4e4e4;
+  color: white;
+}
+
+.login-form-btn-login:disabled:hover {
+  box-shadow: none;
+  transform: none;
+}
+
+
+.login-invalid {
+  color: #f50057;
+  font-weight: 900;
+  margin-top: 8px;
+}

@@ -1,0 +1,188 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Deve criar um novo produto com todos os atributos corretamente preenchidos",
+      "enabled": true,
+      "identifier": "test_cria_produto[Product]",
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2.1 - O método generate da classe SimpleReport deve retornar todas informações do relatório simples",
+      "enabled": true,
+      "identifier": "test_metodo_generate_de_simplereport_retorna_informacoes_simples",
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2.2 - O método generate da classe SimpleReport deve retornar o formato correto do relatório simples",
+      "enabled": true,
+      "identifier": "test_validar_simplereport_retorna_formato_correto",
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - O método generate da classe CompleteReport deve retornar todas informações do relatório completo",
+      "enabled": true,
+      "identifier": "test_metodo_generate_de_completereport_retorna_informacoes_completas",
+      "order": 5,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4 - Ao importar um arquivo csv, deve retornar o relatórios simples ou o completo conforme solicitado",
+      "enabled": true,
+      "identifier": "test_importe_arquivos_CSV_pelo_metodo_import_data",
+      "order": 6,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "5 - Ao importar um arquivo JSON, deve retornar o relatórios simples ou o completo conforme solicitado",
+      "enabled": true,
+      "identifier": "test_importe_arquivos_JSON_pelo_metodo_import_data",
+      "order": 7,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "6 - Ao importar um arquivo XML, deve retornar o relatórios simples ou o completo conforme solicitado",
+      "enabled": true,
+      "identifier": "test_importe_arquivos_XML_pelo_metodo_import_data",
+      "order": 8,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "7 - As classes estratégicas CsvImporter, JsonImporter e CsvImporter devem retornar os dados dos produtos em uma lista",
+      "enabled": true,
+      "identifier": "test_classes_estrategicas_devem_retornar_lista_de_produtos",
+      "order": 9,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "8 - O retorno padrão de um objeto Product deve ser um relatório sobre ele",
+      "enabled": true,
+      "identifier": "test_relatorio_produto[Product]",
+      "order": 10,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "9 - Deve retornar o relatório devidamente colorido",
+      "enabled": true,
+      "identifier": "test_decorar_relatorio[generate]",
+      "order": 10,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "10.1 - Será validado que a instancia de InventoryRefactor é iterável (Iterable)",
+      "enabled": true,
+      "identifier": "test_validar_inter_e_instanciado_por_iterator",
+      "order": 11,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "10.2 - Será validado que é possível iterar o primeiro item da lista usando csv",
+      "enabled": true,
+      "identifier": "test_validar_iterar_primeiro_item_com_csv",
+      "order": 12,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "10.3 - Será validado que é possível iterar o primeiro item da lista usando json",
+      "enabled": true,
+      "identifier": "test_validar_iterar_primeiro_item_com_json",
+      "order": 13,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "10.4 - Será validado que é possível iterar o primeiro item da lista usando xml",
+      "enabled": true,
+      "identifier": "test_validar_iterar_primeiro_item_com_xml",
+      "order": 14,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "10.5 - Será validado que é possível receber duas fontes de dados sem sobrescrita",
+      "enabled": true,
+      "identifier": "test_validar_iterar_expandir_com_dois_arquivos",
+      "order": 15,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "10.6 - Será validado que não é possível enviar arquivo inválido",
+      "enabled": true,
+      "identifier": "test_validar_enviar_arquivo_extensao_invalida",
+      "order": 16,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "11.1 - Será validado que o menu importa um arquivo csv e gera um report simples",
+      "enabled": true,
+      "identifier": "test_validar_menu_enviar_um_arquivo_csv_simples",
+      "order": 17,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "11.2 - Será validado que o menu importa um arquivo csv e gera um report completo",
+      "enabled": true,
+      "identifier": "test_validar_menu_enviar_um_arquivo_csv_completo",
+      "order": 18,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "11.3 - Será validado que o menu importa um arquivo json e gera um report simples",
+      "enabled": true,
+      "identifier": "test_validar_menu_enviar_um_arquivo_json_simples",
+      "order": 19,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "11.4 - Será validado que o menu importa um arquivo json e gera um report completo",
+      "enabled": true,
+      "identifier": "test_validar_menu_enviar_um_arquivo_json_completo",
+      "order": 20,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "11.5 - Será validado que o menu importa um arquivo xml e gera um report simples",
+      "enabled": true,
+      "identifier": "test_validar_menu_enviar_um_arquivo_xml_simples",
+      "order": 21,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "11.6 - Será validado que o menu importa um arquivo xml e gera um report completo",
+      "enabled": true,
+      "identifier": "test_validar_menu_enviar_um_arquivo_xml_completo",
+      "order": 22,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "11.7 - Será validado que enviar argumentos faltantes irá gerar um erro",
+      "enabled": true,
+      "identifier": "test_validar_menu_com_menos_argumentos",
+      "order": 23,
+      "skill_ids": []
+    }
+  ]
+}

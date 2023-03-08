@@ -313,7 +313,7 @@
 - ☑️ **Project - Recipes App**
  </details>
 
-<h2>:hourglass_flowing_sand: Back-end Development
+<h2>:heavy_check_mark: Back-end Development
 <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -509,17 +509,28 @@ Print:
 #### Unit 31: **Project - Delivery App
 - **Project - Delivery App**
 
-#### Unit 32: MasterClass - VPS, CI/CD
-- Day 1
-- Day 2
  </details>
 
 <h2>:hourglass: Computer Science
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </h2>
 
-- :hourglass: **Project - Job Insights**
-- :hourglass: **Project - Inventory Reports**
+<details>
+<summary>:heavy_check_mark: Project - Job Insights</summary>
+ 
+##### Habilidades desenvolvidas:
+> Neste projeto, foi desenvolvido....
+
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - Inventory Reports</summary>
+ 
+##### Habilidades desenvolvidas:
+> Neste projeto, foi desenvolvido....
+
+</details>
+
 - :hourglass: **Project - Tech news**
 - :hourglass: **Project - Algorithms**
 - :hourglass: **Project - TING - Trybe Is Not Google**

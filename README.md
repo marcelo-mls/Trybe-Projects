@@ -397,7 +397,7 @@ Print:
 </details>
 
 <details>
-<summary>:heavy_check_mark: Project - Commerces</summary>
+<summary>:heavy_check_mark: Project - MongoDB Commerce</summary>
  
 ##### Habilidades desenvolvidas:
 > Neste projeto, foi desenvolvido....
@@ -499,7 +499,7 @@ Print:
 - Query operators
 - Simple Updates
 - Complex Updates - Arrays
-- **Project - Commerce**
+- **Project - MongoDB Commerce**
   
 #### Unit 30: MongoDB with Node.js and OOP
 - MongoDB and MSC architecture

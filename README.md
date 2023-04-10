@@ -531,10 +531,37 @@ Print:
 
 </details>
 
-- :hourglass: **Project - Tech news**
-- :hourglass: **Project - Algorithms**
-- :hourglass: **Project - TING - Trybe Is Not Google**
-- :hourglass: **Project - Restaurant Orders**
+<details>
+<summary>:heavy_check_mark: Project - Tech news</summary>
+ 
+##### Habilidades desenvolvidas:
+> Neste projeto, foi desenvolvido....
+
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - Algorithms</summary>
+ 
+##### Habilidades desenvolvidas:
+> Neste projeto, foi desenvolvido....
+
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - TING - Trybe Is Not Google</summary>
+ 
+##### Habilidades desenvolvidas:
+> Neste projeto, foi desenvolvido....
+
+</details>
+
+<details>
+<summary>:heavy_check_mark: Project - Restaurant Orders</summary>
+ 
+##### Habilidades desenvolvidas:
+> Neste projeto, foi desenvolvido....
+
+</details>
 
 <details>
 <summary><h4>Curriculum / Currículo<h4></summary>
@@ -570,8 +597,9 @@ Print:
 - Stacks and Queues
 - **Project - TING - Trybe Is Not Google**
   
-#### Unit 38: Data Structure II: Arrays, Hashmaps, and Sets
+#### Unit 38: Data Structure II: Hashmaps and Sets (+ Pandas)
 - Hashmap and Dict
 - Set
+- Pandas
 - **Project - Restaurant Orders**
  </details>

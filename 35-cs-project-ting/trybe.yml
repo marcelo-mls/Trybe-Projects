@@ -1,0 +1,14 @@
+ignore_files:
+  - statics/
+  - ting_word_searches/__init__.py
+  - ting_file_management/__init__.py
+  - tests/*.py
+  - tests/priority_queue/__init__.py
+  - tests/priority_queue/mocks.py
+  - tests/priority_queue/conftest.py
+  - ting_file_management/priority_queue.py
+  - dev-requirements.txt
+  - pyproject.toml
+  - requirements.txt
+  - setup.cfg
+  - setup.py

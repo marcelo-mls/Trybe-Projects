@@ -1,0 +1,12 @@
+ignore_files:
+  - tech_news/database.py
+  - tech_news/analyzer/reading_plan.py
+  - tests/*.py
+  - tests/assets
+  - tests/reading_plan/conftest.py
+  - tests/reading_plan/mocks.py
+  - tests/reading_plan/__init__.py
+  - pyproject.toml
+  - requirements.txt
+  - setup.cfg
+  - setup.py

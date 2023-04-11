@@ -1,0 +1,11 @@
+ignore_files:
+  - tests/*.py
+  - tests/encrypt/__init__.py
+  - tests/encrypt/mocks.py
+  - tests/encrypt/conftest.py
+  - challenges/challenge_encrypt_message.py
+  - dev-requirements.txt
+  - pyproject.toml
+  - requirements.txt
+  - setup.cfg
+  - setup.py

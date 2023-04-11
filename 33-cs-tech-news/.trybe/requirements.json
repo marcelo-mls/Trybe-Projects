@@ -1,0 +1,100 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Crie a função fetch",
+      "enabled": true,
+      "identifier": "test_fetch",
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - Crie a função scrape_updates",
+      "enabled": true,
+      "identifier": "test_scrape_updates",
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - Crie a função scrape_next_page_link",
+      "enabled": true,
+      "identifier": "test_scrape_next_page_link",
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4 - Crie a função scrape_news",
+      "enabled": true,
+      "identifier": "test_scrape_news",
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "5 - Crie a função get_tech_news para obter as notícias!",
+      "enabled": true,
+      "identifier": "test_get_tech_news",
+      "order": 5,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "6 - Teste a classe ReadingPlanService",
+      "enabled": true,
+      "identifier": "test_reading_plan",
+      "order": 6,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "7 - Crie a função search_by_title",
+      "enabled": true,
+      "identifier": "test_search_news_by_title",
+      "order": 7,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "8 - crie a função search_by_date",
+      "enabled": true,
+      "identifier": "test_search_news_by_date",
+      "order": 8,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "9 - Crie a função search_by_category",
+      "enabled": true,
+      "identifier": "test_search_news_by_category",
+      "order": 9,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "10 - Crie a função top_5_categories",
+      "enabled": true,
+      "identifier": "test_list_top_five_categories",
+      "order": 10,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "11 - Crie a função analyzer_menu",
+      "enabled": true,
+      "identifier": "test_analyzer_menu_basic",
+      "order": 11,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "12 - Implemente as funcionalidades do menu",
+      "enabled": true,
+      "identifier": "test_analyzer_menu_functions",
+      "order": 12,
+      "skill_ids": []
+    }
+  ]
+}

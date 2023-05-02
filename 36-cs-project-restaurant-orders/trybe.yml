@@ -1,0 +1,27 @@
+ignore_files:
+  - .editorconfig
+  - .trybe/requirements.json
+  - src/__init__.py
+  - src/models/__init__.py
+  - src/models/dish.py
+  - src/models/ingredient.py
+  - src/services/__init__.py
+  - tests/dish/__init__.py
+  - tests/dish/conftest.py
+  - tests/dish/mocks.py
+  - tests/ingredient/__init__.py
+  - tests/ingredient/conftest.py
+  - tests/ingredient/mocks.py
+  - tests/mocks/inventory_base_data_2.csv
+  - tests/mocks/inventory_base_data.csv
+  - tests/mocks/menu_base_data.csv
+  - tests/__init__.py
+  - tests/conftest.py
+  - tests/ingredients.py
+  - tests/test_inventory_control.py
+  - tests/test_menu_data.py
+  - tests/test_menu_builder.py
+  - pyproject.toml
+  - setup.cfg
+  - setup.py
+  - trybe-filter-repo.sh

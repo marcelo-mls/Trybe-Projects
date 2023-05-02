@@ -1,0 +1,52 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Implemente testes para a classe `Ingredient`, que se encontra no módulo `src/models/ingredient.py`.",
+      "enabled": true,
+      "identifier": "test_ingredient[Ingredient]",
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - Implemente testes para a classe `Dish`, que se encontra no módulo `src/models/dish.py`.",
+      "enabled": true,
+      "identifier": "test_dish[Dish]",
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - Implemente a classe `MenuData` que fará todo o mapeamento de pratos e ingredientes baseado nos arquivo csv disponibilizado. Ela se encontra no módulo `src/services/menu_data.py`.",
+      "enabled": true,
+      "identifier": "test_menu_data",
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4 - Implemente o método `get_main_menu` dentro da classe `MenuBuilder`, que gera um `DataFrame` com os cardápios. Ele se encontra no arquivo `src/services/menu_builder.py`.",
+      "enabled": true,
+      "identifier": "test_get_main_menu",
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "5 - Implemente os métodos `check_recipe_availability` e `consume_recipe` da classe `InventoryMapping`. Eles se encontram no arquivo `src/services/inventory_control.py`.",
+      "enabled": true,
+      "identifier": "test_inventory_mapping",
+      "order": 5,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "6 - Complemente a implementação do método `get_main_menu` para que só sejam exibidos pratos que possam ser feitos com os ingredientes disponíveis no estoque.",
+      "enabled": true,
+      "identifier": "test_get_main_menu_returns_no_dishes_when_ingredients_are_not_available",
+      "order": 6,
+      "skill_ids": []
+    }
+  ]
+}
